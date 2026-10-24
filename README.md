@@ -39,7 +39,7 @@
 
 | Project | What it's about | Stack |
 | :-- | :-- | :-- |
-| **[Terminology Manager](https://github.com/karlameddel)** | Manage and translate terms across multiple languages, all in one place. | `Python` |
+| **[Terminology Manager](https://github.com/karlameddel/gestor_terminologico)** | Manage and translate terms across multiple languages, all in one place. | `Python` |
 
 > more to come. the lab is always open 🔬
 
@@ -56,11 +56,11 @@
 
 <div align="center">
 
-<img src="assets/gif.gif" alt="gif" width="220" />
+**stay tuned** &nbsp;✨
 
 <br/>
 
-**stay tuned** &nbsp;✨
+<img src="assets/gif.gif" alt="gif" width="220" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4E8AD3&section=footer" alt="footer" width="100%" />
 

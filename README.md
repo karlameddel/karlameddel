@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=500&size=18&duration=2800&pause=900&color=4E8AD3&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Karla+:);Data+Science+%26+Engineering+student;Trying+to+build+things+for+the+fun+of+it" alt="typing intro" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=karlameddel&label=stalkers&color=4E8AD3&style=flat-square" alt="profile views" />
-
-<br/><br/>
-
 <img src="profile/streak.svg" alt="streak stats" />
 
 </div>
